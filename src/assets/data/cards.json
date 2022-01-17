@@ -1,0 +1,52 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "imgName": "Gris",
+      "imgUser": "Sol",
+      "imgURL": "gris"
+    },
+    {
+      "id": 2,
+      "imgName": "Blasphemous",
+      "imgUser": "Carlos",
+      "imgURL": "blasphemous"
+    },
+    {
+      "id": 3,
+      "imgName": "Hollow knight",
+      "imgUser": "Emilio",
+      "imgURL": "hollowknight"
+    },
+    {
+      "id": 4,
+      "imgName": "Dead Cells",
+      "imgUser": "Keily",
+      "imgURL": "deadcells"
+    },
+    {
+      "id": 5,
+      "imgName": "Stardew Valley",
+      "imgUser": "Alejandro",
+      "imgURL": "stardewvalley"
+    },
+    {
+      "id": 6,
+      "imgName": "Spelunky",
+      "imgUser": "Jose",
+      "imgURL": "spelunky"
+    },
+    {
+      "id": 7,
+      "imgName": "Celeste",
+      "imgUser": "Ina",
+      "imgURL": "celeste"
+    },
+    {
+      "id": 8,
+      "imgName": "Puppy Cat",
+      "imgUser": "Rosa",
+      "imgURL": "puppycat"
+    }
+  ]
+}
