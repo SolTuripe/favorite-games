@@ -25,7 +25,7 @@ You will also see any lint errors in the console.
 ## Page view
 
 <p align="center">
-<img src="./public/games.jpg" width=65%>
+<img src="./public/games.jpg" width=75%>
 </p>
 
 ## Learn More
